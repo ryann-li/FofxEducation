@@ -1,0 +1,47 @@
+.titleHolder {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("background-image.jpeg");;
+    height: 100vh;
+    margin: 0;
+
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*flex-direction: column;*/
+}
+
+.Title {
+
+    color: white;
+    margin: 0;
+    padding-top: 35vh;
+    /*display: flex;*/
+    text-align: center;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 8vmin;
+    letter-spacing: 2vmin;
+    /*text-shadow: 0 2px 6px rgba(0, 0, 0, 1);*/
+}
+
+.Names {
+    margin: 0;
+    color: white;
+
+    position: absolute;
+    bottom: 0;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 3vmin;
+
+}
+
+.Description {
+    color: white;
+    text-align: center;
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 200;
+    font-size: 2.2vmin;
+}
