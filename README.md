@@ -1,2 +1,2 @@
-# fofxEducation
+# FofxEducation
 https://fofxeducation.com
