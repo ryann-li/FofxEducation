@@ -1,2 +1,3 @@
 # FofxEducation
-https://fofxeducation.com
+
+Tutoring app to help Alberta students learn math
